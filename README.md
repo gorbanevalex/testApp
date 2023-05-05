@@ -1,3 +1,3 @@
-для запуска
-npm i
-npm run start
+<p>для запуска</p>
+<p>npm i</p>
+<p>npm run start</p>
