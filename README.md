@@ -1,2 +1,3 @@
-# testApp
-Test app
+для запуска
+npm i
+npm run start
