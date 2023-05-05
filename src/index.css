@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+input,
+button {
+  font-family: "Josefin Sans", sans-serif;
+}
+body,
+html {
+  overflow-x: hidden;
+}
